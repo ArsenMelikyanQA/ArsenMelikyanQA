@@ -38,3 +38,5 @@
 <code><img height="25" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Pickleball-FCD535?style=for-the-badge&logo"></code> 
+<code><img height="25" src="https://img.shields.io/badge/Jazz-A1A9BB?style=for-the-badge&logo"></code> 
+
