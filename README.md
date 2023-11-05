@@ -6,7 +6,7 @@
 ### Let's try to fix the code of humanity together. There's clearly a bug there.
 #### Nothing is easy but everything is possible.
   
---**languages and tools:**--
+-------**languages and tools:**-------
 
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
