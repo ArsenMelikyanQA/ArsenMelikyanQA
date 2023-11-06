@@ -30,8 +30,8 @@
 [<code><img height="25" src="https://img.shields.io/badge/Bitcoin-102387?style=for-the-badge&logo=bitcoin&logoColor=white"></code>](https://en.wikipedia.org/wiki/Bitcoin)
 [<code><img height="25" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white"></code>](https://en.wikipedia.org/wiki/Amazon_Prime)
 [<code><img height="25" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>](https://en.wikipedia.org/wiki/Adobe_Photoshop)
-<code><img height="25" src="https://img.shields.io/badge/Pinacle Studio-C2A633?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white"></code>
+[<code><img height="25" src="https://img.shields.io/badge/Pinacle Studio-C2A633?style=for-the-badge&logo"></code>](https://www.pinnaclesys.com/en/products/studio/?x-vehicle=ppc&utm_medium=cpc&utm_source=google&utm_campaign=pn-dd-all-adwordsppc&utm_content=133521959244&utm_term=pinnacle%20studio&utm_id=15790082377&x-vehicle=ppc&gad_source=1&gclid=Cj0KCQiAuqKqBhDxARIsAFZELmJto41zeGosyu7zXkRn43o0MpQbSyyEu8db7yu-kHi7ekQFrqjGt1AaAhabEALw_wcB)
+[<code><img height="25" src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white"></code>](https://en.wikipedia.org/wiki/Samsung_Pay)
 <code><img height="25" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></code>
