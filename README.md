@@ -32,23 +32,23 @@
 [<code><img height="25" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 [<code><img height="25" src="https://img.shields.io/badge/Pinacle Studio-C2A633?style=for-the-badge&logo"></code>](https://www.pinnaclesys.com/en/products/studio/?x-vehicle=ppc&utm_medium=cpc&utm_source=google&utm_campaign=pn-dd-all-adwordsppc&utm_content=133521959244&utm_term=pinnacle%20studio&utm_id=15790082377&x-vehicle=ppc&gad_source=1&gclid=Cj0KCQiAuqKqBhDxARIsAFZELmJto41zeGosyu7zXkRn43o0MpQbSyyEu8db7yu-kHi7ekQFrqjGt1AaAhabEALw_wcB)
 [<code><img height="25" src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white"></code>](https://en.wikipedia.org/wiki/Samsung_Pay)
-<code><img height="25" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/Pickleball-FCD535?style=for-the-badge&logo"></code> 
-<code><img height="25" src="https://img.shields.io/badge/Jazz-A1A9BB?style=for-the-badge&logo"></code> 
-<code><img height="25" src="https://img.shields.io/badge/Photo-3152A0?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Traveling-FF9800?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Architecture-21759B?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Design-02A9FF?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Modern_Art-FF6A00?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Poker-4051B5?style=for-the-badge&logo"></code>
+[<code><img height="25" src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></code>](https://en.wikipedia.org/wiki/Nintendo_Switch)
+[<code><img height="25" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></code>](https://en.wikipedia.org/wiki/Spotify)
+[<code><img height="25" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></code>](https://en.wikipedia.org/wiki/Netflix)
+[<code><img height="25" src="https://img.shields.io/badge/Pickleball-FCD535?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Pickleball)
+[<code><img height="25" src="https://img.shields.io/badge/Jazz-A1A9BB?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Jazz)
+[<code><img height="25" src="https://img.shields.io/badge/Photo-3152A0?style=for-the-badge&logo"></code>](https://unsplash.com/)
+[<code><img height="25" src="https://img.shields.io/badge/Traveling-FF9800?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Travel)
+[<code><img height="25" src="https://img.shields.io/badge/Architecture-21759B?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Architecture)
+[<code><img height="25" src="https://img.shields.io/badge/Design-02A9FF?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Design)
+[<code><img height="25" src="https://img.shields.io/badge/Modern_Art-FF6A00?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Modern_art)
+[<code><img height="25" src="https://img.shields.io/badge/Poker-4051B5?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Poker)
 
 
 -------**and I don't understand:**-------
 
-<code><img height="25" src="https://img.shields.io/badge/Hobby horsing-FF9900?style=for-the-badge&logo"></code>
-<code><img height="25" src="https://img.shields.io/badge/Wars-000000?style=for-the-badge&logo"></code>
+[<code><img height="25" src="https://img.shields.io/badge/Hobby horsing-FF9900?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Hobby_horsing)
+[<code><img height="25" src="https://img.shields.io/badge/Wars-000000?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/War)
 
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
