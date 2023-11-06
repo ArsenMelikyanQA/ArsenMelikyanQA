@@ -28,7 +28,7 @@
 
 <code><img height="25" src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"></code>
-<code><img height="25" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></code>
 <code><img height="25" src="https://img.shields.io/badge/Pinacle Studio-C2A633?style=for-the-badge&logo"></code>
 <code><img height="25" src="https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white"></code>
