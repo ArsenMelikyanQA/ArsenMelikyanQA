@@ -37,6 +37,13 @@
 <code><img height="25" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/Pickleball-FCD535?style=for-the-badge&logo"></code> 
 <code><img height="25" src="https://img.shields.io/badge/Jazz-A1A9BB?style=for-the-badge&logo"></code> 
+<code><img height="25" src="https://img.shields.io/badge/Photo-3152A0?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Traveling-FF9800?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Architecture-21759B?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Design-02A9FF?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Modern_Art-FF6A00?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Poker-4051B5?style=for-the-badge&logo"></code>
+
 
 -------**and I don't understand:**-------
 
