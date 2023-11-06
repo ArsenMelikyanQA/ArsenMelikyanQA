@@ -39,6 +39,11 @@
 <code><img height="25" src="https://img.shields.io/badge/Pickleball-FCD535?style=for-the-badge&logo"></code> 
 <code><img height="25" src="https://img.shields.io/badge/Jazz-A1A9BB?style=for-the-badge&logo"></code> 
 
+-------**and I don't understand:**-------
+
+<code><img height="25" src="https://img.shields.io/badge/Hobby horsing-FF9900?style=for-the-badge&logo"></code>
+<code><img height="25" src="https://img.shields.io/badge/Wars-000000?style=for-the-badge&logo"></code>
+
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
