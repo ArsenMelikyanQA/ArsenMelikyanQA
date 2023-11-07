@@ -44,7 +44,6 @@
 [<code><img height="25" src="https://img.shields.io/badge/Modern_Art-FF6A00?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Modern_art)
 [<code><img height="25" src="https://img.shields.io/badge/Poker-4051B5?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Poker)
 
-
 -------**and I don't understand:**-------
 
 [<code><img height="25" src="https://img.shields.io/badge/Hobby horsing-FF9900?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Hobby_horsing)
@@ -52,4 +51,5 @@
 
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 
