@@ -27,8 +27,7 @@
 
 -------**I'm also interested:**-------
 
-
-[<code><img height="20" src="https://img.shields.io/badge/Click on any badge to clarify-00BC8E?style=for-the-badge&logo"></code>](https://https://en.wikipedia.org/wiki/Knowledge)
+[<code><img height="20" src="https://img.shields.io/badge/Click on any badge to clarify-00BC8E?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Knowledge)
 
 [<code><img height="25" src="https://img.shields.io/badge/AI-EC3750?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [<code><img height="25" src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white"></code>](https://en.wikipedia.org/wiki/Coinbase)
