@@ -26,6 +26,7 @@
 
 -------**I'm also interested:**-------
 
+[<code><img height="25" src="https://img.shields.io/badge/AI-EC3750?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [<code><img height="25" src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white"></code>](https://en.wikipedia.org/wiki/Coinbase)
 [<code><img height="25" src="https://img.shields.io/badge/Bitcoin-102387?style=for-the-badge&logo=bitcoin&logoColor=white"></code>](https://en.wikipedia.org/wiki/Bitcoin)
 [<code><img height="25" src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=amazonprime&logoColor=white"></code>](https://en.wikipedia.org/wiki/Amazon_Prime)
