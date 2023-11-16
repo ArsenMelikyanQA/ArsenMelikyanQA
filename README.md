@@ -5,7 +5,7 @@
 > ### Let's try to fix the code of humanity together. There's clearly a bug there.
 >> #### Nothing is easy but everything is possible.
 
--------**languages and tools I use:**-------  
+-------**ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs ɪ ᴜsᴇ:**-------  
 
 [<code><img height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"></code>](https://www.python.org/)
 [<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>](https://www.javascript.com/)
@@ -26,7 +26,7 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png"></code>
 
--------**I'm also interested:**-------
+-------**ɪ'ᴍ ᴀʟsᴏ ɪɴᴛᴇʀᴇsᴛᴇᴅ:**-------
 
 [<code><img height="20" src="https://img.shields.io/badge/𝐂𝐥𝐢𝐜𝐤 𝐨𝐧 𝐚𝐧𝐲 𝐛𝐚𝐝𝐠𝐞 𝐭𝐨 𝐜𝐥𝐚𝐫𝐢𝐟𝐲-FFFFFF?"></code>](https://en.wikipedia.org/wiki/Knowledge)
 
@@ -50,7 +50,7 @@
 [<code><img height="25" src="https://img.shields.io/badge/Poker-4051B5?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Poker)
 
 
--------**and I don't understand:**-------
+-------**ᴀɴᴅ ɪ ᴅᴏɴ'ᴛ ᴜɴᴅᴇʀsᴛᴀɴᴅ:**-------
 
 [<code><img height="25" src="https://img.shields.io/badge/Hobby horsing-FF9900?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/Hobby_horsing)
 [<code><img height="25" src="https://img.shields.io/badge/Wars-000000?style=for-the-badge&logo"></code>](https://en.wikipedia.org/wiki/War)
